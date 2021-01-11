@@ -1,2 +1,2 @@
-# post-apocalypse
-Data set and process documents of cultural studies / digital humanities research paper on Post Apocalypse in US cinema
+### Post-apocalypse as Premise
+Data set and process documents of cultural studies / digital humanities research paper on the post-apocalyptic imagination in US cinema
