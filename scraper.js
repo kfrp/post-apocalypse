@@ -1,8 +1,8 @@
 const pptr = require("puppeteer-extra");
 const StealthPlugin = require("puppeteer-extra-plugin-stealth");
 pptr.use(StealthPlugin());
-const list = require("./movie-list");
-const extra = require("./movie-additional.json");
+const list = require("./genre-list");
+const extra = require("./keyword-list");
 var data = list.concat(extra);
 const { writeFileSync } = require("fs");
 
