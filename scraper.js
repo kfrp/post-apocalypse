@@ -29,7 +29,7 @@ const get = async () => {
           (document.getElementById("titleDetails") &&
             document.getElementById("titleDetails")) ||
           defaultEl
-        ).querySelectorAll("h4");
+        ).querySelectorAll("h4"); 
         var countryEl, languageEl;
         for (let i = 0; i < h4s.length; i++) {
           let h4 = h4s[i];
