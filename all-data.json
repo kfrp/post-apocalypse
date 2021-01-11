@@ -271,7 +271,7 @@
   "tt0898367": {
     "title": "The Road",
     "link": "tt0898367",
-    "year": "I) (2009",
+    "year": "2009",
     "rating": 7.2,
     "count": 222841,
     "country": "USA",
@@ -295,7 +295,8 @@
         "Cumulative Worldwide Gross",
         "$27639579"
       ]
-    ]
+    ],
+    "decade": "2000"
   },
   "tt1179933": {
     "title": "10 Cloverfield Lane",
@@ -1010,7 +1011,7 @@
   "tt1483013": {
     "title": "Oblivion",
     "link": "tt1483013",
-    "year": "I) (2013",
+    "year": "2013",
     "rating": 7,
     "count": 484876,
     "country": "USA",
@@ -1034,7 +1035,8 @@
         "Cumulative Worldwide Gross",
         "$286168572"
       ]
-    ]
+    ],
+    "decade": "2010"
   },
   "tt1706620": {
     "title": "Snowpiercer",
@@ -1069,7 +1071,7 @@
   "tt1160996": {
     "title": "The Colony",
     "link": "tt1160996",
-    "year": "I) (2013",
+    "year": "2013",
     "rating": 5.3,
     "count": 43063,
     "country": "Canada",
@@ -1084,7 +1086,8 @@
         "Cumulative Worldwide Gross",
         "$321310"
       ]
-    ]
+    ],
+    "decade": "2010"
   },
   "tt0133093": {
     "title": "The Matrix",
@@ -1290,7 +1293,7 @@
   "tt1756799": {
     "title": "The Day",
     "link": "tt1756799",
-    "year": "I) (2011",
+    "year": "2011",
     "rating": 5.2,
     "count": 12257,
     "country": "USA",
@@ -1309,7 +1312,8 @@
         "Cumulative Worldwide Gross",
         "$80848"
       ]
-    ]
+    ],
+    "decade": "2010"
   },
   "tt0806203": {
     "title": "Carriers",
@@ -2322,12 +2326,13 @@
   "tt2091478": {
     "title": "Air",
     "link": "tt2091478",
-    "year": "I) (2015",
+    "year": "2015",
     "rating": 5.1,
     "count": 11703,
     "country": "USA",
     "lang": "English",
-    "bo": []
+    "bo": [],
+    "decade": "2010"
   },
   "tt2558318": {
     "title": "The Last Survivors",
@@ -2538,7 +2543,7 @@
   "tt0472033": {
     "title": "9",
     "link": "tt0472033",
-    "year": "I) (2009",
+    "year": "2009",
     "rating": 7.1,
     "count": 133060,
     "country": "USA",
@@ -2562,7 +2567,8 @@
         "Cumulative Worldwide Gross",
         "$48428063"
       ]
-    ]
+    ],
+    "decade": "2000"
   },
   "tt0090315": {
     "title": "When the Wind Blows",
@@ -2985,7 +2991,7 @@
   "tt1386703": {
     "title": "Total Recall",
     "link": "tt1386703",
-    "year": "I) (2012",
+    "year": "2012",
     "rating": 6.3,
     "count": 239815,
     "country": "USA",
@@ -3009,7 +3015,8 @@
         "Cumulative Worldwide Gross",
         "$198467168"
       ]
-    ]
+    ],
+    "decade": "2010"
   },
   "tt2071550": {
     "title": "Open Grave",
@@ -3030,7 +3037,7 @@
   "tt1881002": {
     "title": "Maggie",
     "link": "tt1881002",
-    "year": "I) (2015",
+    "year": "2015",
     "rating": 5.6,
     "count": 41901,
     "country": "USA",
@@ -3049,7 +3056,8 @@
         "Cumulative Worldwide Gross",
         "$1663165"
       ]
-    ]
+    ],
+    "decade": "2010"
   },
   "tt1815862": {
     "title": "After Earth",
@@ -3193,12 +3201,13 @@
   "tt3297792": {
     "title": "Survivor",
     "link": "tt3297792",
-    "year": "I) (2014",
+    "year": "2014",
     "rating": 4,
     "count": 1911,
     "country": "USA",
     "lang": "English",
-    "bo": []
+    "bo": [],
+    "decade": "2010"
   },
   "tt3816458": {
     "title": "Dead Rising: Watchtower",
@@ -3315,7 +3324,7 @@
   "tt1564368": {
     "title": "Aftermath",
     "link": "tt1564368",
-    "year": "VII) (2014",
+    "year": "2014",
     "rating": 4.7,
     "count": 1758,
     "country": "USA",
@@ -3326,12 +3335,13 @@
         "$2500000",
         "(estimated)"
       ]
-    ]
+    ],
+    "decade": "2010"
   },
   "tt1800367": {
     "title": "Remnants",
     "link": "tt1800367",
-    "year": "I) (2013",
+    "year": "2013",
     "rating": 3.9,
     "count": 229,
     "country": "USA",
@@ -3345,7 +3355,8 @@
         "Cumulative Worldwide Gross",
         "$1022"
       ]
-    ]
+    ],
+    "decade": "2010"
   },
   "tt2051872": {
     "title": "Dust of War",
@@ -4349,7 +4360,7 @@
   "tt1920846": {
     "title": "Another World",
     "link": "tt1920846",
-    "year": "I) (2014",
+    "year": "2014",
     "rating": 4.4,
     "count": 3835,
     "country": "Israel",
@@ -4360,7 +4371,8 @@
         "$1000000",
         "(estimated)"
       ]
-    ]
+    ],
+    "decade": "2010"
   },
   "tt2402107": {
     "title": "Existence",
@@ -4410,7 +4422,7 @@
   "tt1198333": {
     "title": "Autumn",
     "link": "tt1198333",
-    "year": "I) (2009",
+    "year": "2009",
     "rating": 3.2,
     "count": 1525,
     "country": "Canada",
@@ -4421,7 +4433,8 @@
         "CAD1500000",
         "(estimated)"
       ]
-    ]
+    ],
+    "decade": "2000"
   },
   "tt2784134": {
     "title": "Battle for Skyark",
@@ -4744,12 +4757,13 @@
   "tt2377414": {
     "title": "Beyond",
     "link": "tt2377414",
-    "year": "III) (2014",
+    "year": "2014",
     "rating": 3.9,
     "count": 917,
     "country": "UK",
     "lang": "English",
-    "bo": []
+    "bo": [],
+    "decade": "2010"
   },
   "tt1274273": {
     "title": "The Last Seven",
@@ -5217,12 +5231,13 @@
   "tt1045673": {
     "title": "Wasteland",
     "link": "tt1045673",
-    "year": "I) (2011",
+    "year": "2011",
     "rating": 2.7,
     "count": 235,
     "country": "USA",
     "lang": "English",
-    "bo": []
+    "bo": [],
+    "decade": "2010"
   },
   "tt0322651": {
     "title": "Dream Warrior",
@@ -5525,12 +5540,13 @@
   "tt2584642": {
     "title": "Aftermath",
     "link": "tt2584642",
-    "year": "I) (2012",
+    "year": "2012",
     "rating": 3.9,
     "count": 66,
     "country": "USA",
     "lang": "English",
-    "bo": []
+    "bo": [],
+    "decade": "2010"
   },
   "tt1366245": {
     "title": "Transmission",
@@ -5587,32 +5603,6 @@
       ]
     ],
     "decade": "2010"
-  },
-  "tt2294755": {
-    "title": "Omega Rose",
-    "link": "tt2294755",
-    "year": "",
-    "rating": 0,
-    "count": 0,
-    "country": "Romania",
-    "lang": "Romanian",
-    "bo": [
-      [
-        "Budget",
-        "EUR210000",
-        "(estimated)"
-      ]
-    ]
-  },
-  "tt2244887": {
-    "title": "Heart Land",
-    "link": "tt2244887",
-    "year": "",
-    "rating": 0,
-    "count": 0,
-    "country": "",
-    "lang": "",
-    "bo": []
   },
   "tt0054229": {
     "title": "Atomic War Bride",
@@ -5786,12 +5776,13 @@
   "tt0122064": {
     "title": "Fire Fight",
     "link": "tt0122064",
-    "year": "I) (1988",
+    "year": "1988",
     "rating": 3.5,
     "count": 30,
     "country": "USA",
     "lang": "English",
-    "bo": []
+    "bo": [],
+    "decade": "1980"
   },
   "tt0099474": {
     "title": "Dune Warriors",
@@ -5878,12 +5869,13 @@
   "tt2342266": {
     "title": "Orion",
     "link": "tt2342266",
-    "year": "I) (2015",
+    "year": "2015",
     "rating": 3.7,
     "count": 100,
     "country": "USA",
     "lang": "English",
-    "bo": []
+    "bo": [],
+    "decade": "2010"
   },
   "tt2297067": {
     "title": "Winter's Kill",
@@ -6575,7 +6567,7 @@
   "tt7315484": {
     "title": "The Silence",
     "link": "tt7315484",
-    "year": "II) (2019",
+    "year": "2019",
     "rating": 5.3,
     "count": 37408,
     "country": "Canada",
@@ -6585,7 +6577,8 @@
         "Cumulative Worldwide Gross",
         "$2325977"
       ]
-    ]
+    ],
+    "decade": "2010"
   },
   "tt5968394": {
     "title": "Captive State",
